@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Host.ConsoleApp", "src\Design.Patterns.Host.ConsoleApp\Design.Patterns.Host.ConsoleApp.csproj", "{4D9FC218-5715-4FDD-A4C3-969A645F4A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Host.ConsoleApp", "Design.Patterns.Host.ConsoleApp\Design.Patterns.Host.ConsoleApp.csproj", "{4D9FC218-5715-4FDD-A4C3-969A645F4A96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Domain", "src\Design.Patterns.Domain\Design.Patterns.Domain.csproj", "{8640A0EB-A0C8-483F-8559-ED90989FD1D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Domain", "Design.Patterns.Domain\Design.Patterns.Domain.csproj", "{8640A0EB-A0C8-483F-8559-ED90989FD1D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.Adapter.Suplier", "src\Design.Patterns.Adapter.Suplier\Design.Patterns.Adapter.Suplier.csproj", "{FCF60BC9-9E5D-4B0E-B62A-F2036098AAA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Patterns.Adapter.Suplier", "Design.Patterns.Adapter.Suplier\Design.Patterns.Adapter.Suplier.csproj", "{FCF60BC9-9E5D-4B0E-B62A-F2036098AAA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
